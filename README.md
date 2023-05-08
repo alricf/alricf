@@ -1,10 +1,10 @@
-<div style="background-color:#009999; color:black">
 <h1 align="center">👐 🌎 🌍 🌏 👐</h1>
 <h1 align="center">Alric Fernandes</h1>
-<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+</div>
 <h1 align="center">Full-Stack Web Developer</h1>
 <h1 align="center">👐 🌎 🌍 🌏 👐</h1>
-</div>
 <!--
 **alricf/alricf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
