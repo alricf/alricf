@@ -1,6 +1,7 @@
 <div style="background-color:#009999; color:black">
 <h1 align="center">👐 🌎 🌍 🌏 👐</h1>
 <h1 align="center">Alric Fernandes</h1>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 <h1 align="center">Full-Stack Web Developer</h1>
 <h1 align="center">👐 🌎 🌍 🌏 👐</h1>
 </div>
