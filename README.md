@@ -1,7 +1,7 @@
 <h1 align="center">👐 🌎 🌍 🌏 👐</h1>
 <h1 align="center">Alric Fernandes</h1>
 <div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" />
 </div>
 <h1 align="center">Full-Stack Web Developer</h1>
 <h1 align="center">👐 🌎 🌍 🌏 👐</h1>
