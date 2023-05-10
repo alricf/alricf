@@ -6,7 +6,7 @@
 <h1 align="center">Alric Fernandes</h1>
 <h1 align="center">Full-Stack Web Developer</h1>
 <div align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/alric-fernandes-63968a64/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
