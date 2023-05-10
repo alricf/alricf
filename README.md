@@ -6,7 +6,9 @@
 <h1 align="center">Alric Fernandes</h1>
 <h1 align="center">Full-Stack Web Developer</h1>
 <div align="center">
-  
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </div>
 <!--
 **alricf/alricf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
