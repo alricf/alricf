@@ -11,6 +11,8 @@
   </a>
 </div>
 
+---
+
 ### :man_technologist: About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50"> from Canada <img src="https://media.giphy.com/media/1Qi9382fpag033DvX7/giphy.gif" width="33"> 
@@ -29,7 +31,17 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/L8K62iTDkzGX
 
 ---
 
-### :hammer_and_wrench: :computer: :hammer_and_wrench: Tools & Technologies :
+### 📊 Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alricf&layout=donut&langs_count=10&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Alric's GitHub stats](https://github-readme-stats.vercel.app/api?username=alricf&count-private=true&show_icons=true&theme=chartreuse-dark)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alricf&theme=chartreuse-dark)](https://git.io/streak-stats)
+
+---
+
+### :hammer_and_wrench: :computer: Tools & Technologies :
 
 <div>
   <h4>Languages</h4>
