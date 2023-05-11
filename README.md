@@ -102,9 +102,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/L8K62iTDkzGX
 
 To-do:
 
+About
 - 🔭 I’m currently working on ...
 - 🤔 I’m looking for help with ...
 
+Tools & Technologies
 <img src="" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
 <img src="" title="Prisma" alt="Prisma" width="40" height="40"/>&nbsp;
 <img src="" title="Ajax" alt="Ajax" width="40" height="40"/>&nbsp;
