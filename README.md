@@ -74,6 +74,29 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/L8K62iTDkzGX
   
 </div>
 
+---
+
+### Pinned Repos
+
+<a href="https://github.com/alricf/happy-helpers">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alricf&repo=happy-helpers&theme=chartreuse-dark" />
+</a>
+<a href="https://github.com/alricf/tweeter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alricf&repo=tweeter&theme=chartreuse-dark" />
+</a>
+<a href="https://github.com/alricf/scheduler">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alricf&repo=scheduler&theme=chartreuse-dark" />
+</a>
+<a href="https://github.com/alricf/tinyapp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alricf&repo=tinyapp&theme=chartreuse-dark" />
+</a>
+<a href="https://github.com/alricf/jungle-rails">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alricf&repo=jungle-rails&theme=chartreuse-dark" />
+</a>
+<a href="https://github.com/alricf/LightBnB">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alricf&repo=LightBnB&theme=chartreuse-dark" />
+</a>
+
 <!--
 **alricf/alricf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
