@@ -13,25 +13,35 @@
 
 ---
 
-### :man_technologist: About Me :
+<div align="center">
+  
+### 👨‍💻 About Me
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50"> from Canada <img src="https://media.giphy.com/media/1Qi9382fpag033DvX7/giphy.gif" width="33"> 
-
-- 🔭 I’m interested in soccer and apex legends.
-
-- 🌱 I’m currently learning AI, AR, and blockchain.
-
-- 🔗 I’m looking to collaborate on projects that encorporate AI, AR, and blockchain in useful ways.
-
-- 💬 Ask me about consciousness and nature of reality.
-
-- 📫 How to reach me: alricf19@gmail.com
-
-- ⚡ Fun fact: You might be drinking water that is older than the solar system.
+<p>
+  I am a Full Stack Developer 
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50"> 
+  from Canada 
+  <img src="https://media.giphy.com/media/1Qi9382fpag033DvX7/giphy.gif" width="33"> 
+</p>  
+<p>
+  🔭 I’m interested in soccer and apex legends.
+</p>
+<p>
+  🌱 I’m currently learning AI, AR, and blockchain.
+</p>
+<p>
+  💬 Ask me about consciousness and the nature of reality.
+</p>
+<p>
+  ⚡ Fun fact: You might be drinking water that is older than the solar system.
+</p>
+<p>
+  🔗 I’m looking to collaborate on projects that encorporate AI, AR, and blockchain in useful ways.
+</p>  
 
 ---
 
-### 📊 Stats :
+### 📊 Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alricf&layout=donut&langs_count=10&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -41,7 +51,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/L8K62iTDkzGX
 
 ---
 
-### :hammer_and_wrench: :computer: Tools & Technologies :
+### :hammer_and_wrench: Tools & Technologies :computer:
 
 <div>
   <h4>Languages</h4>
@@ -97,6 +107,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/L8K62iTDkzGX
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alricf&repo=LightBnB&theme=chartreuse-dark" />
 </a>
 
+</div>
+  
 <!--
 **alricf/alricf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
