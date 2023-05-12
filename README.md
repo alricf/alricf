@@ -1,22 +1,19 @@
-<h1 align="center">👐 🌎 🌍 🌏 👐</h1>
+<div align="center">
+<h1>👐 🌎 🌍 🌏 👐</h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300" />
-</div>
-<h1 align="center">Alric Fernandes</h1>
-<h1 align="center">Full-Stack Web Developer</h1>
-<div align="center">
-  <a href="https://www.linkedin.com/in/alric-fernandes-63968a64/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:alricf19@gmail.com">
-    <img src="https://img.shields.io/badge/alricf19@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300" />
+
+<h1>Alric Fernandes</h1>
+<h1>Full-Stack Web Developer</h1>
+
+<a href="https://www.linkedin.com/in/alric-fernandes-63968a64/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:alricf19@gmail.com">
+  <img src="https://img.shields.io/badge/alricf19@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 ---
-
-<div align="center">
   
 ### 👨‍💻 About Me
 
