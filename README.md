@@ -18,16 +18,13 @@
 ### 👨‍💻 About Me
 
 <p>
-  I am a Full Stack Developer 
+  I am a Full-Stack Developer 
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="50"> 
   from Canada 
   <img src="https://media.giphy.com/media/1Qi9382fpag033DvX7/giphy.gif" width="33"> 
 </p>  
 <p>
   🔭 I’m interested in soccer and apex legends.
-</p>
-<p>
-  🌱 I’m currently learning AI, AR, and blockchain.
 </p>
 <p>
   💬 Ask me about consciousness and the nature of reality.
@@ -37,7 +34,10 @@
 </p>
 <p>
   🔗 I’m looking to collaborate on projects that encorporate AI, AR, and blockchain in useful ways.
-</p>  
+</p>
+<p>
+  🌱 I’m currently building a web application called Fantasy Sidekick that assists Fantasy Premier League managers by providing tools and metrics built with live FPL API data.
+</p>
 
 ---
 
