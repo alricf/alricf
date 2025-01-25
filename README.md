@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300" />
 
 <h1>Alric Fernandes</h1>
-<h1>Full-Stack Web Developer</h1>
+<h1>Full-Stack Developer</h1>
 
 <a href="https://www.linkedin.com/in/alric-fernandes-63968a64/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
