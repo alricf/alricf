@@ -59,7 +59,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" title="Ruby" alt="Ruby" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS3" width="50" height="50"/>&nbsp;
-  <img src="https://www.tutorialsteacher.com/Content/images/home/sql.png" title="SQL" alt="SQL" width="50" height="50"/>&nbsp;
+  <!-- <img src="https://www.tutorialsteacher.com/Content/images/home/sql.png" title="SQL" alt="SQL" width="50" height="50"/>&nbsp; -->
 
   <h5>Frameworks & Libraries</h5>
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
@@ -82,7 +82,7 @@
   <!-- <img src="https://camo.githubusercontent.com/e54c4eff2a16c13b29cc44cd8720004611c517587b01296eeda4ca91e96759b8/68747470733a2f2f70372e6869636c69706172742e636f6d2f707265766965772f3632362f3234372f3736312f6d6f6368612d6a6176617363726970742d6e6f64652d6a732d746573742d64726976656e2d646576656c6f706d656e742d617373657274696f6e2d636861692d7368656e672e6a7067" title="Chai" alt="Chai" width="50" height="50"/>&nbsp; -->
   
   <h5>Systems CMS & Databases</h5>
-  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="50" height="50"/>&nbsp; -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
   <img src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4" title="Prisma" alt="Prisma" width="50" height="50" />
   
