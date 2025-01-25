@@ -47,7 +47,7 @@
 
 ![Alric's GitHub stats](https://github-readme-stats.vercel.app/api?username=alricf&count-private=true&show_icons=true&theme=chartreuse-dark)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alricf&theme=chartreuse-dark)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alricf&theme=chartreuse-dark)](https://git.io/streak-stats) -->
 
 ---
 
