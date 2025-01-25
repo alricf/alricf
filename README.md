@@ -65,24 +65,24 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="ReactJS" alt="ReactJS" width="50" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/ajax/ajax.png" title="Ajax" alt="Ajax" width="50" height="50"/>&nbsp;
-  <img src="https://camo.githubusercontent.com/2406788a5bdbf3d900427eecd883b5aa64c45435d14239f5eba9a2a08ac8dcd3/68747470733a2f2f6a737572742e6769746875622e696f2f6a61636b732d706f7274666f6c696f2f696d616765732f636f6c6f722d657870726573732d69636f6e2532302831292e706e67" title="Express" alt="Express" width="50" height="50"/>&nbsp;
+  <!-- <img src="https://camo.githubusercontent.com/2406788a5bdbf3d900427eecd883b5aa64c45435d14239f5eba9a2a08ac8dcd3/68747470733a2f2f6a737572742e6769746875622e696f2f6a61636b732d706f7274666f6c696f2f696d616765732f636f6c6f722d657870726573732d69636f6e2532302831292e706e67" title="Express" alt="Express" width="50" height="50"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>&nbsp;
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--3xQLS1bQ--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5ep3e0rn03glin9ukbzq.png" title="ActiveRecord" alt="ActiveRecord" width="80" height="50"/>&nbsp;
+  <!-- <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--3xQLS1bQ--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5ep3e0rn03glin9ukbzq.png" title="ActiveRecord" alt="ActiveRecord" width="80" height="50"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="50" height="50"/>&nbsp;
-  <img src="https://camo.githubusercontent.com/04368184f31205a1e95d52174ae6417937a290b224c94cbf0812a8704e7a4f6f/68747470733a2f2f64326e6972316a34736f7538657a2e636c6f756466726f6e742e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31322f6e6578746a732d626f696c6572706c6174652d6c6f676f2e706e67" title="NextJS" alt="NextJS" width="50" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="50" height="50"/>&nbsp;
+  <!-- <img src="https://camo.githubusercontent.com/04368184f31205a1e95d52174ae6417937a290b224c94cbf0812a8704e7a4f6f/68747470733a2f2f64326e6972316a34736f7538657a2e636c6f756466726f6e742e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31322f6e6578746a732d626f696c6572706c6174652d6c6f676f2e706e67" title="NextJS" alt="NextJS" width="50" height="50"/>&nbsp; -->
+   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="50" height="50"/>&nbsp; -->
   
   <h5>Testing</h5>
   <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="StoryBook" alt="StoryBook" width="50" height="50"/>&nbsp;
-  <img src="https://yt3.googleusercontent.com/iD0oePTGV8tZwEEP_WEG2rvyNiQAVfmjhawFMCj17ARjjmw-J70k9NDjSE5QTzD9Vk3ayBU=s900-c-k-c0x00ffffff-no-rj" title="Cypress" alt="Cypress" width="50" height="50"/>&nbsp;
+  <!-- <img src="https://yt3.googleusercontent.com/iD0oePTGV8tZwEEP_WEG2rvyNiQAVfmjhawFMCj17ARjjmw-J70k9NDjSE5QTzD9Vk3ayBU=s900-c-k-c0x00ffffff-no-rj" title="Cypress" alt="Cypress" width="50" height="50"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/rspec/rspec-original.svg" title="RSpec" alt="RSpec" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" title="Mocha" alt="Mocha" width="50" height="50"/>&nbsp;
-  <img src="https://camo.githubusercontent.com/e54c4eff2a16c13b29cc44cd8720004611c517587b01296eeda4ca91e96759b8/68747470733a2f2f70372e6869636c69706172742e636f6d2f707265766965772f3632362f3234372f3736312f6d6f6368612d6a6176617363726970742d6e6f64652d6a732d746573742d64726976656e2d646576656c6f706d656e742d617373657274696f6e2d636861692d7368656e672e6a7067" title="Chai" alt="Chai" width="50" height="50"/>&nbsp;
+  <!-- <img src="https://camo.githubusercontent.com/e54c4eff2a16c13b29cc44cd8720004611c517587b01296eeda4ca91e96759b8/68747470733a2f2f70372e6869636c69706172742e636f6d2f707265766965772f3632362f3234372f3736312f6d6f6368612d6a6176617363726970742d6e6f64652d6a732d746573742d64726976656e2d646576656c6f706d656e742d617373657274696f6e2d636861692d7368656e672e6a7067" title="Chai" alt="Chai" width="50" height="50"/>&nbsp; -->
   
   <h5>Systems CMS & Databases</h5>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="50" height="50"/>&nbsp;
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="50" height="50"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
   <img src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4" title="Prisma" alt="Prisma" width="50" height="50" />
   
